@@ -1,4 +1,6 @@
 Example of LINE mini app implementation
+- Get profile
+- Send message to user via LINE
 
 # Setup
 1. Generate a channel access token by the script in `key/` directory. Check README.md in the directory.
