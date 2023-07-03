@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/node": "^20.3.3",
+    "@types/node-jose": "^1.1.10",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "node-jose": "^2.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "gen": "ts-node ./src/gen.ts"
+  }
+}
